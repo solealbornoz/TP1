@@ -14,7 +14,7 @@ Login de Usuarios
 Solo para usuarios autorizados a descargar las fotos 
 
 
-El formulario envía los datos mediante POST usando fetch a usuarios.php.
+El formulario envía los datos mediante POST usando fetch - funcion del JS que permite realizar solicuitudes http, como get o post, a servidores web de forma asincrona- a usuarios.php.
 
 El backend valida el usuario y la contraseña contra la base de datos y responde en formato JSON.
 
