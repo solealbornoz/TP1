@@ -35,4 +35,12 @@ POST: Recibe usuario y contraseña, valida contra la base de datos y responde si
 6. Segun lo observado se agrega estilos de Botones
 Se agregó una regla CSS para que todos los botones tengan el mismo color y estilo, asegurando coherencia visual en la interfaz.
 
+7. Viewport y Mobile-First
+Ya esta incoorporado en el head.
+
+8. Unidades Relativas 
+%,rem se encuentran en el ccs
+
+9. Se Aplicaron técnicas de diseño para adaptar el proyecto a sitio web o a dispositivos de distintos tamaños de pantalla (PC, tablet y celular).
+
 

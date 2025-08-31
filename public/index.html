@@ -185,7 +185,8 @@
   <div class="container my-5">
     <h3 class="text-center mb-4">Usuarios Registrados</h3>
     <div id="usuarios-lista" class="row g-3">
-      <!-- Aquí se insertarán los usuarios con JavaScript -->
+
+      <!-- insertar los usuarios con JavaScript -->
       <script>
 document.addEventListener("DOMContentLoaded", function () {
   // GET: Cargar usuarios
@@ -219,7 +220,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const usuario = document.getElementById("usuario").value;
       const password = document.getElementById("password").value;
 
-      fetch("../api/usuarios.php", { // Cambiado a usuarios.php
+      fetch("../api/usuarios.php", { 
         method: "POST",
         headers: {
           "Content-Type": "application/json"
