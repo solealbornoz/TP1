@@ -11,7 +11,7 @@ Edad.
 
 2. Se modifico el nombre del formulario ubicado abajo a la derecha a
 "Login de Usuarios"
-Solo para usuarios autorizados a descargar las fotos ( mas adelante la idea es sincronizarlo con weTransf u otro sitio que permita subir y descargar fotos).
+Solo para usuarios autorizados a descargar las fotos ( mas adelante la idea es sincronizarlo con weTransfer u otro sitio que permita subir y descargar fotos).
 
 
 El formulario envía los datos mediante POST usando fetch - funcion del JS que permite realizar solicuitudes http, como get o post, a servidores web de forma asincrona- a usuarios.php.
