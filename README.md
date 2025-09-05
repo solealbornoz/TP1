@@ -43,4 +43,6 @@ Ya esta incoorporado en el head.
 
 9. Se Aplicaron técnicas de diseño para adaptar el proyecto a sitio web o a dispositivos de distintos tamaños de pantalla (PC, tablet y celular).
 
+10. Se cambia el ancho de pantalla. Se centra los iconos de redes. Se incorpora fondo al texto del slide.
+
 
